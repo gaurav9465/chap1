@@ -1,1 +1,4 @@
-this is gaurav dadwal
+git add filename (pwd to staging area)
+git commit (staging area to local)
+git remote add yyour https
+git push -u origin main(local to repo)
